@@ -2,7 +2,7 @@
 
 Uma API RESTful simples construída com [Flask](https://flask.palletsprojects.com/), que permite gerenciar um acervo de livros fictício com operações CRUD (Create, Read, Update, Delete).
 
-Ideal para quem está começando no desenvolvimento de APIs em Python e quer entender os conceitos básicos de rotas, requisições e manipulação de dados em memória.
+Estudo de desenvolvimento de APIs em Python para entender os conceitos básicos de rotas, requisições e manipulação de dados em memória
 
 ---
 
